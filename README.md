@@ -1,4 +1,5 @@
-"# c-programs" 
-"# c-programs" 
-"# c-programs" 
-"# c-programs" 
+#include<stdio.h>
+int main()
+{
+  printf("Hello");
+  }
